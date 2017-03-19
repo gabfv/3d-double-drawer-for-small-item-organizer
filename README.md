@@ -4,6 +4,8 @@ It's a remix of **cruzher**'s work so you can have a drawer that's slightly more
 
 If you want to modify it, use the file **Double_Drawer_base.123dx**, this is basically where you can start from to make other type of drawers (_i.e. with more compartments_).
 
+See the [my page at Thingiverse](https://www.thingiverse.com/thing:2188644) for instructions on how to print it.
+
 # Source
 
 See [Thingiverse](https://www.thingiverse.com/thing:1666929) for the **crusher**'s _Small items organizer_.

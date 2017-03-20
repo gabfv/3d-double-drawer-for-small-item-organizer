@@ -6,6 +6,8 @@ If you want to modify it, use the file **Double_Drawer_base.123dx**, this is bas
 
 See the [my page at Thingiverse](https://www.thingiverse.com/thing:2188644) for instructions on how to print it.
 
+![Printed double drawer with 1 compartment](/images/2017/03/IMG_20170320_123716.jpg)
+
 # Source
 
 See [Thingiverse](https://www.thingiverse.com/thing:1666929) for the **crusher**'s _Small items organizer_.
